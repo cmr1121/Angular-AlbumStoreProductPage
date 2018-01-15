@@ -4,9 +4,11 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\product-description",
-    "\\src\\app\\product-page",
-    "\\src\\assets"
+    "\\src\\spec",
+    "\\src\\spec\\mocha-specs",
+    "\\src\\spec\\mocha-specs\\part4",
+    "\\src\\spec\\part3"
   ],
-  "SelectedNode": "\\src\\assets\\album.json",
+  "SelectedNode": "\\src\\spec\\mocha-specs\\part4\\product-service-types-getalbum-responsejson-to-album.mocha.spec.js",
   "PreviewInSolutionExplorer": false
 }
